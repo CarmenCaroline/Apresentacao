@@ -4,13 +4,13 @@
 
 ### 👨‍💻 Quem sou eu
 
-Sou formada em Gestão Financaeira e atualmente curso Análise e Desenvolvimento de Sistemas (ADS), iniciando uma nova trajetória profissional na área de tecnologia.
+Sou formada em Gestão Financeira e atualmente curso Análise e Desenvolvimento de Sistemas (ADS), construindo uma nova trajetória profissional na área de tecnologia. 💻
 
-Tenho interesse em desenvolvimento web, front-end e venho construindo meus conhecimentos em tecnologias como HTML, CSS e JavaScript, sempre buscando aprender por meio da prática e de novos projetos.
+Tenho interesse em desenvolvimento web, especialmente em Front-end, e venho desenvolvendo meus conhecimentos em HTML, CSS e JavaScript. 🌐 Busco aprender por meio da prática, da criação de projetos e do contato constante com novos conhecimentos e tecnologias.
 
-Estou no início dessa jornada e utilizo este GitHub para registrarminha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos ao longo da minha formação.
+Minha experiência acadêmica em Gestão Financeira também contribui para minha formação, trazendo uma visão analítica, organização e atenção aos detalhes, competências que pretendo aplicar na minha nova carreira em tecnologia.
 
-Meu objeitvo é desenvolver cada vez mais minhas habilidades e construir uma nova carreira na área de tecnologia!
+Estou em constante aprendizado e desenvolvimento, buscando transformar conhecimento em projetos, aprimorar minhas habilidades e conquistar minha primeira oportunidade profissional na área de tecnologia. 🚀
 
 
 ### 🛠️ Linguagens e Ferramentas
